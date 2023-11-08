@@ -109,7 +109,8 @@ endmodule
 For Encoder:
 
 
-![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/9401dba1-65f5-4607-9836-3efbde8d0608)
+![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/eb5e4838-c75b-4697-9a59-dded459b9943)
+
 
 
 For Decoder:
@@ -140,7 +141,8 @@ For Decoder:
 For Encoder:
 
 
-![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/a2637657-f6d6-447e-82fe-9ef9ddc2ee47)
+![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/747c5484-72b1-4b23-9ea9-eda13ff3de5f)
+
 
 For Decoder:
 
