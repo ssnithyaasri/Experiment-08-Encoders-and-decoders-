@@ -122,12 +122,17 @@ For Decoder:
 
 For Encoder:
 
-![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/7e723aa1-d0c5-4772-8bd5-53f17b417bf7)
+![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/dad3bd14-6491-4a94-87f3-92f05940907a)
+
+
+
 
 For Decoder:
 
+![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/cf13af5a-4d2e-4bd7-b7a6-500b70999e39)
 
-![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/1edfbf73-0645-40cd-bdf0-3439630b7e1e)
+
+
 
 
 ### TRUTH TABLE 
