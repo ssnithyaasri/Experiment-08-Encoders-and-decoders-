@@ -107,28 +107,44 @@ endmodule
 ### RTL LOGIC  
 
 For Encoder:
+
+
 ![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/9401dba1-65f5-4607-9836-3efbde8d0608)
 
 
 For Decoder:
+
+
+
 ![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/7cf80a4a-6d3a-4f98-9c98-a7e0cd73a622)
 
-### TIMING DIGRAMS  
+### TIMING DIGRAMS 
+
 For Encoder:
+
 ![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/7e723aa1-d0c5-4772-8bd5-53f17b417bf7)
 
 For Decoder:
+
+
 ![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/1edfbf73-0645-40cd-bdf0-3439630b7e1e)
 
 
 ### TRUTH TABLE 
+
 For Encoder:
+
+
 ![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/a2637657-f6d6-447e-82fe-9ef9ddc2ee47)
 
 For Decoder:
+
+
 ![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/cd17b6a6-a7cc-42f7-aaae-26c144a5a2eb)
 
 ### RESULTS:
+
+
 Thus the program to design encoder and decoder is successfully completed.
 
 
