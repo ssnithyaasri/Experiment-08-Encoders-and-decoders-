@@ -109,15 +109,16 @@ endmodule
 For Encoder:
 
 
-![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/eb5e4838-c75b-4697-9a59-dded459b9943)
+![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/7cf80a4a-6d3a-4f98-9c98-a7e0cd73a622)
 
 
 
 For Decoder:
 
+![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/eb5e4838-c75b-4697-9a59-dded459b9943)
 
 
-![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/7cf80a4a-6d3a-4f98-9c98-a7e0cd73a622)
+
 
 ### TIMING DIGRAMS 
 
