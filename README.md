@@ -145,6 +145,15 @@ For Encoder:
 ![image](https://github.com/ssnithyaasri/Experiment-08-Encoders-and-decoders-/assets/119122478/747c5484-72b1-4b23-9ea9-eda13ff3de5f)
 
 
+
+
+
+
+
+
+
+
+
 For Decoder:
 
 
