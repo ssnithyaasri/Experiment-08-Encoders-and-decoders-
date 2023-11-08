@@ -154,10 +154,3 @@ For Decoder:
 
 
 Thus the program to design encoder and decoder is successfully completed.
-
-
-
-
-
-
-### RESULTS 
